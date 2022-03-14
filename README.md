@@ -1,6 +1,6 @@
 ## ভেন্সড ইউটিউব প্রোজেক্ট অফিসিয়ালি ডিসকনটিনিউ করার ঘোষণা দিয়ে দিয়েছে ভেন্সড টিম, এই যাত্রায় গুগল জিতে গেলো, ভেন্সড টিম জানিয়েছে তাদের সকল ডাউনলোড লিংক গুলো সরিয়ে নিবে কিন্তু লাস্ট আপডেড গুলো ব্যাবহার করা যাবে । রিলিজ অপশান থেকে লাস্ট আপডেড গুলো নামিয়ে ব্যাকআপ করে ফেলুন।
 
-[![Github All Releases](https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/03/YouTube-Vanced.png)](https://github.com/RelaxHubxBDH/BDH-YT-VNCD/releases) [![Github All Releases]
+[![ভেন্সড ইউটিউব](https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/03/YouTube-Vanced.png)](https://github.com/RelaxHubxBDH/BDH-YT-VNCD/releases) [![ভেন্সড ইউটিউব]
 
 [![Github All Releases](https://img.shields.io/github/downloads/KhanhNguyen9872/0101011101010111001110010011000101100100010010000101011001101001010110100101011000111001010101110101/total.svg?style=for-the-badge)](https://github.com/RelaxHubxBDH/BDH-YT-VNCD/releases) [![Github All Releases](https://img.shields.io/github/release/KhanhNguyen9872/0101011101010111001110010011000101100100010010000101011001101001010110100101011000111001010101110101.svg?style=for-the-badge)](https://github.com/RelaxHubxBDH/BDH-YT-VNCD/releases)
 
